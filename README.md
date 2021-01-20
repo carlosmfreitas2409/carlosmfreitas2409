@@ -21,16 +21,17 @@ Atualmente estou focado em assimilar novos conhecimentos nas tecnologias mais at
 
 ![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-F29400?style=flat-square&logo=javascript&logoColor=white)
-![PHP Badge](https://img.shields.io/badge/-PHP-8993BE?style=flat-square&logo=php&logoColor=white)
-![Git Badge](https://img.shields.io/badge/-GIT-F34F29?style=flat-square&logo=git&logoColor=white)
 [![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
 [![React Badge](https://img.shields.io/badge/-ReactJS-13B5EA?style=flat-square&logo=react&logoColor=white&link=https://reactjs.org)](https://reactjs.org)
 [![ReactNative Badge](https://img.shields.io/badge/-React_Native-563D7C?style=flat-square&logo=react&logoColor=white&link=https://reactnative.dev)](https://reactnative.dev)
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&link=https://typescriptlang.org)](https://typescriptlang.org)
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&link=https://postgresql.org)](https://postgresql.org)
 [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white&link=https://docker.com)](https://docker.com)
+![PHP Badge](https://img.shields.io/badge/-PHP-8993BE?style=flat-square&logo=php&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Git Badge](https://img.shields.io/badge/-GIT-F34F29?style=flat-square&logo=git&logoColor=white)
+
 
 ---
 
