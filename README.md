@@ -9,7 +9,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá! Seja bem-vindo ao meu perfil
 
-Tenho 18 anos, sou autodidata e apaixonado por aprender novas tecnologias. Estou cursando o Ensino Médio (2020 - 2022), no Instituto de Ensino Barão de Mauá.
+Tenho 19 anos, sou autodidata e apaixonado por aprender novas tecnologias. Estou cursando o Ensino Médio (2020 - 2022), no Instituto de Ensino Barão de Mauá.
 
 Sou aluno do Bootcamp GoStack da RocketSeat, curso orientado no desenvolvimento Front-end (HTML5, CSS3 e React.JS), Back-end (Node.JS) e Mobile (React Native).
 
