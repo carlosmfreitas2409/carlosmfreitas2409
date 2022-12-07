@@ -9,11 +9,9 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá! Seja bem-vindo ao meu perfil
 
-I'm 17 years old, self-taught and passionate about learning new technologies. I am attending high school (2020 - 2022), at the Instituto de Ensino Barão de Mauá.
+I am 19 years old, self-taught and I love solving problems using technology, from the simplest to the most complex. In 2023 I will start my degree in mechatronics engineering at “Faculdade de Informática e Administração Paulista” (FIAP).
 
-I'm a student at RocketSeat's Bootcamp GoStack, a development oriented course Front-end (HTML5, CSS3 and React.JS), Back-end (Node.JS) and Mobile (React Native).
-
-Currently I am focused on assimilating new knowledge in the most current technologies and becoming a full-stack developer.
+I have knowledge in the technology area for 6+ years, with my first contact in Java. Now, I’m a full-stack developer, experienced in JavaScript technology across its stack (NodeJS, ReactJS and React Native). Specialized in back-end development of APIs.
 
 ---
 
@@ -25,20 +23,18 @@ Currently I am focused on assimilating new knowledge in the most current technol
 [![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
 [![React Badge](https://img.shields.io/badge/-ReactJS-13B5EA?style=flat-square&logo=react&logoColor=white&link=https://reactjs.org)](https://reactjs.org)
 [![ReactNative Badge](https://img.shields.io/badge/-React_Native-563D7C?style=flat-square&logo=react&logoColor=white&link=https://reactnative.dev)](https://reactnative.dev)
+[![Next.js Badge](https://img.shields.io/badge/-Next.js-ffffff?style=flat-square&logo=next.js&logoColor=black&link=https://nextjs.org/)](https://nextjs.org/)
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&link=https://typescriptlang.org)](https://typescriptlang.org)
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&link=https://postgresql.org)](https://postgresql.org)
 [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white&link=https://docker.com)](https://docker.com)
 ![PHP Badge](https://img.shields.io/badge/-PHP-8993BE?style=flat-square&logo=php&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+[![Chakra UI](https://img.shields.io/badge/-Chakra_UI-%23319795?style=flat-square&logo=chakra-ui&logoColor=white&link=https://chakra-ui.com)](https://chakra-ui.com)
 ![Git Badge](https://img.shields.io/badge/-GIT-F34F29?style=flat-square&logo=git&logoColor=white)
-
----
-
-## :books: Learning
-
-[![Next.js Badge](https://img.shields.io/badge/-Next.js-ffffff?style=flat-square&logo=next.js&logoColor=black&link=https://nextjs.org/)](https://nextjs.org/)
-
----
+[![NestJS](https://img.shields.io/badge/-NestJS-ffffff?style=flat-square&logo=nestjs&logoColor=red&link=https://nestjs.com)](https://nestjs.com)
+![Microservices](https://img.shields.io/badge/-Microservices-00a7f5?style=flat-square&logo=databricks&logoColor=white)
+[![Serverless](https://img.shields.io/badge/-Serverless-000000?style=flat-square&logo=serverless&logoColor=red&link=https://www.serverless.com)](https://www.serverless.com/)
+![Domain Driven Design](https://img.shields.io/badge/-Domain%20Driven%20Design-01bcdd?style=flat-square&logo=bookstack&logoColor=white)
 
 ## :purple_heart: Hobbies
 
