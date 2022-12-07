@@ -7,13 +7,11 @@
 
 </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá! Seja bem-vindo ao meu perfil
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá! Seja bem-vindo ao meu perfil!
 
-Tenho 19 anos, sou autodidata e apaixonado por aprender novas tecnologias. Estou cursando o Ensino Médio (2020 - 2022), no Instituto de Ensino Barão de Mauá.
+Tenho 19 anos, sou autodidata e apaixonado em resolver problemas dos mais simples aos mais complexos, utilizando a tecnologia. Em 2023 iniciarei minha graduação em Engenharia Mecatrônica na Faculdade de Informática e Administração Paulista (FIAP).
 
-Sou aluno do Bootcamp GoStack da RocketSeat, curso orientado no desenvolvimento Front-end (HTML5, CSS3 e React.JS), Back-end (Node.JS) e Mobile (React Native).
-
-Atualmente estou focado em assimilar novos conhecimentos nas tecnologias mais atuais e me tornar um desenvolvedor Full-stack.
+Meu primeiro contato na área da tecnologia foi em Java há mais de 6 anos. Sou desenvolvedor Full-stack, experiente na tecnologia JavaScript e sua stack (NodeJS, ReactJS e React Native). Especializado no desenvolvimento back-end de APIs.
 
 ---
 
@@ -33,12 +31,10 @@ Atualmente estou focado em assimilar novos conhecimentos nas tecnologias mais at
 ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/-GIT-F34F29?style=flat-square&logo=git&logoColor=white)
 [![Chakra UI](https://img.shields.io/badge/-Chakra_UI-%23319795?style=flat-square&logo=chakra-ui&logoColor=white&link=https://chakra-ui.com)](https://chakra-ui.com)
-
----
-
-## :books: Aprendendo
-
--#---#-
+[![NestJS](https://img.shields.io/badge/-NestJS-ffffff?style=flat-square&logo=nestjs&logoColor=red&link=https://nestjs.com)](https://nestjs.com)
+![Microsserviços](https://img.shields.io/badge/-Microsservi%C3%A7os-00a7f5?style=flat-square&logo=databricks&logoColor=white)
+[![Serverless](https://img.shields.io/badge/-Serverless-000000?style=flat-square&logo=serverless&logoColor=red&link=https://www.serverless.com)](https://www.serverless.com/)
+![Domain Driven Design](https://img.shields.io/badge/-Domain%20Driven%20Design-01bcdd?style=flat-square&logo=bookstack&logoColor=white)
 
 ---
 
@@ -46,6 +42,7 @@ Atualmente estou focado em assimilar novos conhecimentos nas tecnologias mais at
 
 :musical_note: Músicas
 :airplane: Aviação
+:robot: Robótica
 
 ---
 
