@@ -40,6 +40,7 @@ I have knowledge in the technology area for 6+ years, with my first contact in J
 
 :musical_note: Musics
 :airplane: Aviation
+:robot: Robotic
 
 ---
 
